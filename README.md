@@ -10,4 +10,4 @@ Here is a sample rendering of test-map3, with grass and texture-mapping enabled 
 
 
 
-[sample]: https://github.com/VjiaoBlack/GraphicsEngine/raw/sample_image.png "Sample Rendering"
+[sample]: https://github.com/VjiaoBlack/GraphicsEngine/raw/master/sample_image.png "Sample Rendering"
